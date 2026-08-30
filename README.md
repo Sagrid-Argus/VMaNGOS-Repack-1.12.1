@@ -6,4 +6,4 @@ Fresh Vanilla DB from Light's Hope by Brotalnia https://github.com/brotalnia/dat
 
 All migrations from VMaNGOS Team https://github.com/vmangos/core/tree/development/sql/migrations 
 
-Everything is applied and up-to-date as of August 30, 2026
+Everything is applied and up-to-date as of August 31, 2026
