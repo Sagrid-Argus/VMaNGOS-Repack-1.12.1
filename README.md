@@ -6,6 +6,4 @@ Built from https://github.com/ileboii/core/tree/vmangos-ike3-playerbots
 
 Fresh Vanilla DB from Light's Hope by Brotalnia https://github.com/brotalnia/database
 
-All migrations from VMaNGOS Team https://github.com/vmangos/core/tree/development/sql/migrations 
-
-Everything is applied and up-to-date as of September 6, 2026
+All migrations from VMaNGOS Team https://github.com/vmangos/core/tree/development/sql/migrations
